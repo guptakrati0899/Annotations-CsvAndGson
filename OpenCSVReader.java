@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class OpenCSVReader {
-    private static final String SampleCSVFile = "C:\\Users\\Asus\\OneDrive\\Desktop\\demo1.csv";
+    private static final String SampleCSVFile = "C:\\Users\\Asus\\OneDrive\\Desktop\\democsv.csv";
 
 
     public static void main(String[] args) throws IOException, CsvValidationException {
